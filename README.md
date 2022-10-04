@@ -12,5 +12,6 @@ The basic important attributes of a tree are:
 8. Leaf
 9. Levels of a tree
 10. Sub-trees
-The most important type of tree is the Binary tree and a lot of problems can be solved using this type of Tree.
-A BINARY TREE basically is a tree in which all the nodes have at max 2 children meaning, every node might have no child, 1 child or 2 children and not more than 2 children.
+
+<p>The most important type of tree is the Binary tree and a lot of problems can be solved using this type of Tree.
+A BINARY TREE basically is a tree in which all the nodes have at max 2 children meaning, every node might have no child, 1 child or 2 children and not more than 2 children.</p>
